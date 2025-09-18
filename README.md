@@ -19,8 +19,6 @@ For me coding isn’t just a profession - it’s a **creative playground** where
 ---
 
 ## ✦ Goals
-I aspire to grow into a **master-level developer**, constantly building my skills and pushing my boundaries.
-Programming gives me **satisfaction and fulfillment** by turning ideas into reality.  
-I’m always open to **learning, collaborating, and experimenting** with new technologies.
+I aspire to grow into a **master-level developer**, constantly building my skills and pushing my boundaries. Programming gives me **satisfaction and fulfillment** by turning ideas into reality. I’m always open to **learning, collaborating, and experimenting** with new technologies.
 
 ---
