@@ -1,6 +1,6 @@
 # ✦ Hi!
 
-I'm a **React Web Developer** with a genuine passion for programming.  
+I'm a **React JS Developer** with a genuine passion for programming.  
 For me coding isn’t just a profession - it’s a **creative playground** where I can explore new ideas and build meaningful solutions.
 
 ---
